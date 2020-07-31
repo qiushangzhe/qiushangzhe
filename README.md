@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I'm qiushangzhe 👋
+
+一线Web开发技术人，关注大前端。
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiushangzhe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiushangzhe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
