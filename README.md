@@ -1,6 +1,6 @@
 ### Hi I'm qiushangzhe 👋
 
-一线Web开发技术人，关注大前端。
+一线Web开发技术人，关注大前端。[简历](http://resume.life.qiusz.cn/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiushangzhe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
